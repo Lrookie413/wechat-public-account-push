@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oJHgl6Up4H9eVujBUI4OETaW4CV4',
+      id: 'oJHgl6Vwipx-L1oeV3IFcaFibkbc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'Xz5JboX_T_bEOxKBrH9QUNroEcK861uezKHD57wwKGA',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -32,9 +32,9 @@ const USER_CONFIG = {
           type: '*生日', name: '宝贝', year: '2000', date: '06-02',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: '小吕', year: '2000', date: '04-13',
-        },
+        // {
+        //   type: '生日', name: '小吕', year: '2000', date: '04-13',
+        // },
         // {
         //   type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
         // },
